@@ -38,7 +38,7 @@ Spring 是 `《SICP 解题集》 <http://sicp.ReadTheDocs.org>`_ 所使用的 Sp
 在本地进行调试的时候，
 修改 ``disqus_shortname`` 变量之后请务必执行 ``make clean`` 命令清理旧的样式缓存，
 否则 Sphinx 在构建样式的时候可能会沿用旧的样式缓存，
-并造成一种“ ``disqus_shortname`` 变量设置之后根本没有生效“的误解。
+给人一种“对 ``disqus_shortname`` 变量的更新根本没有生效“的错觉。
 
 
 使用许可
