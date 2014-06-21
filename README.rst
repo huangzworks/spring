@@ -12,7 +12,7 @@ Spring 是 `《SICP 解题集》 <http://sicp.ReadTheDocs.org>`_ 所使用的 Sp
 
 2. 修改 sphinx 项目 ``conf.py`` 文件中的 ``html_theme_path`` 变量，让它指向 ``spring`` 文件夹所在的位置。
 
-3. 修改 sphinx 项目 ``conf.py`` 文件中的 ``html_theme`` 变量的值为 ``spring`` 。
+3. 修改 sphinx 项目 ``conf.py`` 文件中的 ``html_theme`` 变量的值为 ``'spring'`` 。
 
 4. 完成！
 
